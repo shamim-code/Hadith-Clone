@@ -6,7 +6,7 @@ export default function RightSidebar() {
     <div className=' inline-block w-[350px] float-right  mr-8 mt-4 box-border rounded-lg'>
 
        <div className='bg-white p-2'>
-            <h1 className=' text-center'>সেটিংস</h1>
+            <h1 className=' text-center font-semibold p-2'>সেটিংস</h1>
 
             <div className=' flex flex-col gap-1'>
             <h1 className=' text-sm font-semibold'>আরবি ফন্ট সিলেক্ট করুন</h1>
