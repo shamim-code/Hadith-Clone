@@ -1,0 +1,30 @@
+
+.icon{
+    
+    height: 45px;
+    width: 45px;
+    padding: 7px;
+    margin-top: 40px;
+}
+
+.icon:hover{
+
+    background-color: #dadede;
+    border-radius: 5px;
+    fill: #2b9e76;
+    stroke: none;
+
+}
+
+
+.polygon{
+
+    height: 40px;
+    display: inline-block;
+    width: 40px;
+    fill: #2b9e76;
+}
+
+
+
+
